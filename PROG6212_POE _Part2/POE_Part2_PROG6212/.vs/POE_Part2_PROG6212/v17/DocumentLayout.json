@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\prog6212_POEPart2_ST10438433\\PROG6212_POE _Part2\\POE_Part2_PROG6212\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5D49919-3AAB-4C10-9AED-C07B71CC541C}|POE_Part2_PROG6212.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_poepart2_st10438433\\prog6212_poe _part2\\poe_part2_prog6212\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D49919-3AAB-4C10-9AED-C07B71CC541C}|POE_Part2_PROG6212.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5D49919-3AAB-4C10-9AED-C07B71CC541C}|POE_Part2_PROG6212.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_poepart2_st10438433\\prog6212_poe _part2\\poe_part2_prog6212\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D49919-3AAB-4C10-9AED-C07B71CC541C}|POE_Part2_PROG6212.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\Desktop\\PROG6212_POE _Part2\\PROG6212_POE _Part2\\CMCSTests\\CMCSTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5D49919-3AAB-4C10-9AED-C07B71CC541C}|POE_Part2_PROG6212.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_poepart2_st10438433\\prog6212_poe _part2\\poe_part2_prog6212\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5D49919-3AAB-4C10-9AED-C07B71CC541C}|POE_Part2_PROG6212.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5D49919-3AAB-4C10-9AED-C07B71CC541C}|POE_Part2_PROG6212.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_poepart2_st10438433\\prog6212_poe _part2\\poe_part2_prog6212\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D49919-3AAB-4C10-9AED-C07B71CC541C}|POE_Part2_PROG6212.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\caleb\\OneDrive\\Desktop\\PROG6212_POE _Part2\\CMCSTests\\CMCSTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -24,7 +24,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,13 +45,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\prog6212_POEPart2_ST10438433\\PROG6212_POE _Part2\\POE_Part2_PROG6212\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\prog6212_POEPart2_ST10438433\\PROG6212_POE _Part2\\POE_Part2_PROG6212\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAEQAAAAAMzMzM3MnwFQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAMzMzM3MnwFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T20:11:23.912Z",
               "EditorCaption": ""
@@ -90,7 +90,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\prog6212_POEPart2_ST10438433\\PROG6212_POE _Part2\\POE_Part2_PROG6212\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
