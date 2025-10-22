@@ -1486,11 +1486,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_POE _Part2\\PROG6212_POE _Part2\\CMCSTests\\CMCSTests.csproj",
+      "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\prog6212_POEPart2_ST10438433\\PROG6212_POE _Part2\\CMCSTests\\CMCSTests.csproj",
       "projectName": "CMCSTests",
-      "projectPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_POE _Part2\\PROG6212_POE _Part2\\CMCSTests\\CMCSTests.csproj",
+      "projectPath": "C:\\Users\\lab_services_student\\Desktop\\prog6212_POEPart2_ST10438433\\PROG6212_POE _Part2\\CMCSTests\\CMCSTests.csproj",
       "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_POE _Part2\\PROG6212_POE _Part2\\CMCSTests\\obj\\",
+      "outputPath": "C:\\Users\\lab_services_student\\Desktop\\prog6212_POEPart2_ST10438433\\PROG6212_POE _Part2\\CMCSTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1511,8 +1511,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\lab_services_student\\Desktop\\PROG6212_POE _Part2\\PROG6212_POE _Part2\\POE_Part2_PROG6212\\POE_Part2_PROG6212.csproj": {
-              "projectPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_POE _Part2\\PROG6212_POE _Part2\\POE_Part2_PROG6212\\POE_Part2_PROG6212.csproj"
+            "C:\\Users\\lab_services_student\\Desktop\\prog6212_POEPart2_ST10438433\\PROG6212_POE _Part2\\POE_Part2_PROG6212\\POE_Part2_PROG6212.csproj": {
+              "projectPath": "C:\\Users\\lab_services_student\\Desktop\\prog6212_POEPart2_ST10438433\\PROG6212_POE _Part2\\POE_Part2_PROG6212\\POE_Part2_PROG6212.csproj"
             }
           }
         }

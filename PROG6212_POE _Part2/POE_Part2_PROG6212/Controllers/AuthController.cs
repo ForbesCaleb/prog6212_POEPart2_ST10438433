@@ -79,10 +79,7 @@ namespace POE_Part1_PROG6212.Controllers
             return RedirectToAction("Login");
         }
 
-        // ===== Denied Access =====
-        public IActionResult Denied() => Content("Access denied.");
-    }
-}
+
 
 
 

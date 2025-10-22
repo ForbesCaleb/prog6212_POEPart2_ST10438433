@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bjrC/TPvIr4=",
+  "dgSpecHash": "J3LZEYGub3k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_POE _Part2\\PROG6212_POE _Part2\\POE_Part2_PROG6212\\POE_Part2_PROG6212.csproj",
+  "projectFilePath": "C:\\Users\\lab_services_student\\Desktop\\prog6212_POEPart2_ST10438433\\PROG6212_POE _Part2\\POE_Part2_PROG6212\\POE_Part2_PROG6212.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\9.0.9\\microsoft.aspnetcore.authentication.negotiate.9.0.9.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\9.0.9\\microsoft.aspnetcore.connections.abstractions.9.0.9.nupkg.sha512",

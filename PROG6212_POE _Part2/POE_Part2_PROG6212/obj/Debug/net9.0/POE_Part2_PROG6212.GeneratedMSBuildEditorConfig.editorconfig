@@ -9,65 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = POE_Part2_PROG6212
 build_property.RootNamespace = POE_Part2_PROG6212
-build_property.ProjectDir = C:\Users\lab_services_student\Desktop\PROG6212_POE _Part2\PROG6212_POE _Part2\POE_Part2_PROG6212\
+build_property.ProjectDir = C:\Users\lab_services_student\Desktop\prog6212_POEPart2_ST10438433\PROG6212_POE _Part2\POE_Part2_PROG6212\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\lab_services_student\Desktop\PROG6212_POE _Part2\PROG6212_POE _Part2\POE_Part2_PROG6212
+build_property.MSBuildProjectDirectory = C:\Users\lab_services_student\Desktop\prog6212_POEPart2_ST10438433\PROG6212_POE _Part2\POE_Part2_PROG6212
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/lab_services_student/Desktop/PROG6212_POE _Part2/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/Auth/Login.cshtml]
+[C:/Users/lab_services_student/Desktop/prog6212_POEPart2_ST10438433/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/PROG6212_POE _Part2/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/DashBoard/Index.cshtml]
+[C:/Users/lab_services_student/Desktop/prog6212_POEPart2_ST10438433/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/DashBoard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaEJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/PROG6212_POE _Part2/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/DashBoard/MyClaims.cshtml]
+[C:/Users/lab_services_student/Desktop/prog6212_POEPart2_ST10438433/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/DashBoard/MyClaims.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaEJvYXJkXE15Q2xhaW1zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/PROG6212_POE _Part2/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/DashBoard/SubmitClaim.cshtml]
+[C:/Users/lab_services_student/Desktop/prog6212_POEPart2_ST10438433/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/DashBoard/SubmitClaim.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaEJvYXJkXFN1Ym1pdENsYWltLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/PROG6212_POE _Part2/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/Home/About.cshtml]
+[C:/Users/lab_services_student/Desktop/prog6212_POEPart2_ST10438433/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/PROG6212_POE _Part2/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/Home/Index.cshtml]
+[C:/Users/lab_services_student/Desktop/prog6212_POEPart2_ST10438433/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/PROG6212_POE _Part2/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/Home/Privacy.cshtml]
+[C:/Users/lab_services_student/Desktop/prog6212_POEPart2_ST10438433/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/PROG6212_POE _Part2/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/Management/ReviewClaims.cshtml]
+[C:/Users/lab_services_student/Desktop/prog6212_POEPart2_ST10438433/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/Management/ReviewClaims.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlbWVudFxSZXZpZXdDbGFpbXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/PROG6212_POE _Part2/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/Shared/Error.cshtml]
+[C:/Users/lab_services_student/Desktop/prog6212_POEPart2_ST10438433/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/PROG6212_POE _Part2/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/lab_services_student/Desktop/prog6212_POEPart2_ST10438433/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/PROG6212_POE _Part2/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/_ViewImports.cshtml]
+[C:/Users/lab_services_student/Desktop/prog6212_POEPart2_ST10438433/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/PROG6212_POE _Part2/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/_ViewStart.cshtml]
+[C:/Users/lab_services_student/Desktop/prog6212_POEPart2_ST10438433/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lab_services_student/Desktop/PROG6212_POE _Part2/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/Shared/_Layout.cshtml]
+[C:/Users/lab_services_student/Desktop/prog6212_POEPart2_ST10438433/PROG6212_POE _Part2/POE_Part2_PROG6212/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5mvmkf0jed
