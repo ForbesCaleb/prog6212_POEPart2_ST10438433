@@ -1,0 +1,70 @@
+﻿@model POE_Part2_PROG6212.Models.SubmitClaimViewModel
+@{
+    ViewData["Title"] = "Submit Claim";
+}
+<div class="row">
+    <div class="col-lg-10 col-xl-8">
+        <div class="card">
+            <div class="card-header bg-white fw-semibold">Submit Claim</div>
+            <div class="card-body">
+                <form asp-action="SubmitClaim" method="post" enctype="multipart/form-data" novalidate>
+                    <div class="row g-3">
+                        <div class="col-md-4">
+                            <label class="form-label">Date Worked</label>
+                            <input asp-for="DateWorked" class="form-control" />
+                            <span class="text-danger small" asp-validation-for="DateWorked"></span>
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label">Hours Worked</label>
+                            <input asp-for="HoursWorked" class="form-control" id="hours" />
+                            <span class="text-danger small" asp-validation-for="HoursWorked"></span>
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label">Activity</label>
+                            <input asp-for="Activity" class="form-control" placeholder="Lecture / Marking / Consultation" />
+                            <span class="text-danger small" asp-validation-for="Activity"></span>
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label">Hourly Rate (R)</label>
+                            <input asp-for="HourlyRate" class="form-control" id="rate" />
+                            <span class="text-danger small" asp-validation-for="HourlyRate"></span>
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label">Total (auto)</label>
+                            <input class="form-control" id="total" value="@Model.TotalAmount.ToString("N2")" readonly />
+                            <div class="form-text">Calculated as Hours × Rate</div>
+                        </div>
+                        <div class="col-12">
+                            <label class="form-label">Supporting Document (optional)</label>
+                            <input asp-for="Document" type="file" class="form-control" />
+                            <div class="form-text">Allowed: .pdf, .docx, .xlsx · Max 5MB</div>
+                        </div>
+                        <div class="col-12">
+                            <label class="form-label">Notes (optional)</label>
+                            <textarea asp-for="Notes" class="form-control" rows="2"></textarea>
+                        </div>
+                        <div class="col-12">
+                            <button class="btn btn-primary">Submit</button>
+                            <a asp-controller="Dashboard" asp-action="Index" class="btn btn-outline-secondary">Cancel</a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        function recalc(){
+            const h = parseFloat(document.getElementById('hours').value.replace(',','.'))||0;
+            const r = parseFloat(document.getElementById('rate').value.replace(',','.'))||0;
+            document.getElementById('total').value = (h*r).toFixed(2);
+        }
+        document.getElementById('hours').addEventListener('input', recalc);
+        document.getElementById('rate').addEventListener('input', recalc);
+    </script>
+}
+
+
