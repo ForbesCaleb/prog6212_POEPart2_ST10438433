@@ -297,6 +297,4 @@ Export claims (CSV/PDF)
 
 Admin reports & dashboards
 
-📜 License
-
-Educational/demo use for PROG6212 POE. Adapt and extend freely for learning.
+https://github.com/ForbesCaleb/prog6212_POEPart2_ST10438433.git
